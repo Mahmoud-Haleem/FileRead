@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{7308CEBD-74B0-4D17-85C8-5B72C51ACC2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelReader", "ExcelReader\ExcelReader.csproj", "{98F2E36E-AE58-49DB-8FC6-BC65A4230557}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileRead", "FileRead\FileRead.csproj", "{D3E42A32-DC5D-40E5-9BAC-BEB7D0526C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7308CEBD-74B0-4D17-85C8-5B72C51ACC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7308CEBD-74B0-4D17-85C8-5B72C51ACC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7308CEBD-74B0-4D17-85C8-5B72C51ACC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7308CEBD-74B0-4D17-85C8-5B72C51ACC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F2E36E-AE58-49DB-8FC6-BC65A4230557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F2E36E-AE58-49DB-8FC6-BC65A4230557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F2E36E-AE58-49DB-8FC6-BC65A4230557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F2E36E-AE58-49DB-8FC6-BC65A4230557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E42A32-DC5D-40E5-9BAC-BEB7D0526C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E42A32-DC5D-40E5-9BAC-BEB7D0526C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E42A32-DC5D-40E5-9BAC-BEB7D0526C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E42A32-DC5D-40E5-9BAC-BEB7D0526C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C80D57D-BD9A-48B4-9E15-1D22118DA911}
+	EndGlobalSection
+EndGlobal

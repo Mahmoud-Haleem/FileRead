@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileRead": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
